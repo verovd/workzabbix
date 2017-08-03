@@ -1,0 +1,1 @@
+UserParameter=check_route[*],/etc/zabbix/scripts/routecheck.sh "$1"
